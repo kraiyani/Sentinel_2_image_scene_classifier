@@ -68,7 +68,7 @@ Sample Sentinel 2 L1C images can be found under _sample_L1C_ folder.
 
 1. Goto Project-Name directory
     ```
-    cd Project-Name
+    cd Sentinel_2_image_scene_classifier
     ```
 2. Run main.py as
     ```
