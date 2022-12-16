@@ -24,7 +24,7 @@
 ## About The Software
 
 
-A ready to use Python package (scripts) with atrained ML model to classify Sentinel-2 L1C image. The Python package takes the L1C product path and produces an RGB image with six classes (Water, Shadow, Cirrus, Cloud, Snow, and Other) at 20 m resolution. 
+A ready to use Python package (scripts) with a trained ML model to classify Sentinel-2 L1C image. The Python package takes the L1C product path and produces an RGB image with six classes (Water, Shadow, Cirrus, Cloud, Snow, and Other) at 20m resolution. 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
